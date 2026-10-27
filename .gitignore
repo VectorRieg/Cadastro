@@ -1,0 +1,10 @@
+# NetBeans / Ant
+build/
+dist/
+nbproject/private/
+
+# compilados
+*.class
+
+# credenciais do banco (NUNCA subir)
+config.properties
