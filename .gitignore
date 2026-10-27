@@ -6,9 +6,6 @@ nbproject/private/
 # compilados
 *.class
 
-# credenciais do banco (NUNCA subir)
-config.properties
-
 # logs e arquivos de sistema
 *.log
 hs_err_pid*
